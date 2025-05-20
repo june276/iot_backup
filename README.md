@@ -110,3 +110,8 @@ ERROR: *** no cameras available ***
 ```
   https://github.com/raspberrypi/picamera2/blob/main/examples/capture_png.py
 ```
+
+# influxdb import with python
+```
+pip install influxdb
+```
