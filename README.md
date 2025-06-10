@@ -1,5 +1,6 @@
 # 2025_inhatc
 2025 년 2학년 1학기 (B반)
+https://github.com/sonnonet/2024_inhatc
 
 
 ## 라즈베리파이 초기 설정
